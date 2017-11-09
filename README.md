@@ -1,5 +1,4 @@
-# hcds-a3-bias
-Final project plan
+## Final project plan
 
 ## Where it Pays to Attend College
 #### Salaries by college, region, and academic major
