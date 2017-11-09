@@ -23,9 +23,7 @@ Cooper Union |	Engineering |	$62,200.00 |	$114,000.00| 	N/A 	|$80,200.00 |	$142,
 o	Salaries for Colleges by Region 
 Sample Data  
 |School Name|	Region|Starting| Median Salary	|Mid-Career Median Salary|	Mid-Career 10th Percentile Salary|	Mid-Career 25th Percentile Salary|	Mid-Career 75th Percentile Salary|	Mid-Career 90th Percentile Salary|
-
-| ------------- | ------------- |------------- | ------------- |------------- | ------------- |------------- | ------------- |------------- |
-
+| ------------- | ------------- |------------- | ------------- |------------- | ------------- |------------- | ------------- |
 |Stanford University 	California |	$70,400.00 |	$129,000.00 |	$68,400.00 |	$93,100.00 	|$184,000.00 	|$257,000.00 |
 |California Institute of Technology (CIT) |	California |	$75,500.00 |	$123,000.00 |	N/A| 	$104,000.00 |	$161,000.00 |	N/A |
 |Harvey Mudd College 	|California| 	$71,800.00 |	$122,000.00| 	N/A |	$96,000.00 |	$180,000.00 |	N/A |
