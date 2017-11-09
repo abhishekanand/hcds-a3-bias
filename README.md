@@ -1,29 +1,24 @@
 # hcds-a3-bias
 Final project plan
 
-Where it Pays to Attend College
-Salaries by college, region, and academic major
-Overview: 
+## Where it Pays to Attend College
+#### Salaries by college, region, and academic major
+
+##### Overview: 
 Recently there have been rise in non-traditional education such as Bootcamps, crash course and MOOC based degree offered by popular platform like EDX.org, Coursera, Udacity challenging establish 4-year college structure. I would like to gain insight about which of these options is better for professional based on location, salary, degree, college, time spent, value for money. This project seems remarkably interesting with respect to changing landscape in Education industry. Non-traditional education promises to provide same level of intellectual training with smaller investment with respect to time and finance, but its effectiveness is difficult to measure. Based on dataset the goal is to measure effectiveness of College on salary progression and how regional location of university influences.  
-Data Set :
-My Data Set has been obtained from the Wall Street Journal based on data from Payscale, Inc hosted on Kaggle (https://www.kaggle.com/wsj/college-salaries
+##### Data Set :
+My Data Set has been obtained from the Wall Street Journal based on data from Payscale, Inc hosted on Kaggle (https://www.kaggle.com/wsj/college-salaries ) 
  I have access to following data. 
 o	Salaries for Colleges by Type 
  
-School Name   
-School Type   
-Starting Median Salary   
-Mid-Career Median Salary   
-Mid-Career 10th Percentile Salary   
-Mid-Career 25th Percentile Salary   
-Mid-Career 75th Percentile Salary   
-Mid-Career 90th Percentile Salary   
-
-Massachusetts Institute of Technology (MIT) 	Engineering 	$72,200.00 	$126,000.00 	$76,800.00 	$99,200.00 	$168,000.00 	$220,000.00 
-California Institute of Technology (CIT) 	Engineering 	$75,500.00 	$123,000.00 	N/A 	$104,000.00 	$161,000.00 	N/A 
-Harvey Mudd College 	Engineering 	$71,800.00 	$122,000.00 	N/A 	$96,000.00 	$180,000.00 	N/A 
-Polytechnic University of New York, Brooklyn 	Engineering 	$62,400.00 	$114,000.00 	$66,800.00 	$94,300.00 	$143,000.00 	$190,000.00 
-Cooper Union 	Engineering 	$62,200.00 	$114,000.00 	N/A 	$80,200.00 	$142,000.00 	N/A 
+ 
+ | School Name   |School Type  |Starting Median Salary  | Mid-Career Median Salary   | Mid-Career 10th Percentile Salary  | Mid-Career 25th Percentile Salary |Mid-Career 75th Percentile Salary  | Mid-Career 90th Percentile Salary |  
+| ------------- | ------------- |------------- | ------------- |------------- | ------------- |------------- | ------------- |
+|Massachusetts Institute of Technology (MIT)| 	Engineering |	$72,200.00 |	$126,000.00 |	$76,800.00 |	$99,200.00 |	$168,000.00 	$220,000.00 |
+|California Institute of Technology (CIT) |	Engineering| 	$75,500.00 |	$123,000.00 |	N/A |	$104,000.00 |	$161,000.00 |	N/A |
+Harvey Mudd College 	|Engineering |	$71,800.00 	|$122,000.00 |	N/A |	$96,000.00 	|$180,000.00| 	N/A |
+Polytechnic University of New York, Brooklyn 	|Engineering |	$62,400.00 |	$114,000.00|	$66,800.00 |	$94,300.00 |	$143,000.00 |	$190,000.00 |
+Cooper Union |	Engineering |	$62,200.00 |	$114,000.00| 	N/A 	|$80,200.00 |	$142,000.00 |	N/A 
  
 o	Salaries for Colleges by Region 
 Sample Data  
