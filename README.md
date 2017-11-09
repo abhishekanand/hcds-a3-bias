@@ -24,7 +24,7 @@ o	Salaries for Colleges by Region
 Sample Data  
 |School Name|	Region|Starting| Median Salary	|Mid-Career Median Salary|	Mid-Career 10th Percentile Salary|	Mid-Career 25th Percentile Salary|	Mid-Career 75th Percentile Salary|	Mid-Career 90th Percentile Salary|
 
-| ------------- | ------------- |------------- | ------------- |------------- | ------------- |------------- | ------------- |
+| ------------- | ------------- |------------- | ------------- |------------- | ------------- |------------- | ------------- |------------- |
 
 |Stanford University 	California |	$70,400.00 |	$129,000.00 |	$68,400.00 |	$93,100.00 	|$184,000.00 	|$257,000.00 |
 |California Institute of Technology (CIT) |	California |	$75,500.00 |	$123,000.00 |	N/A| 	$104,000.00 |	$161,000.00 |	N/A |
@@ -38,7 +38,7 @@ Sample Data
 
 
 |Undergraduate|	Major|Starting| Median Salary	|Mid-Career Median Salary|	Mid-Career 10th Percentile Salary|	Mid-Career 25th Percentile Salary|	Mid-Career 75th Percentile Salary|	Mid-Career 90th Percentile Salary|
-| ------------- | ------------- |------------- | ------------- |------------- | ------------- |------------- | ------------- |
+| ------------- | ------------- |------------- | ------------- |------------- | ------------- |------------- | ------------- |------------- |
 |Accounting |	$46,000.00| 	$77,100.00 |	67.6 |	$42,200.00 |	$56,100.00 	|$108,000.00 |	$152,000.00 |
 |Aerospace Engineering |	$57,700.00 	|$101,000.00 |75.0| 	$64,300.00 |	$82,100.00 	|$127,000.00 	$161,000.00 |
 |Agriculture 	|$42,600.00 |	$71,900.00 |	68.8 |	$36,300.00| 	$52,100.00 |	$96,300.00 	|$150,000.00 |
