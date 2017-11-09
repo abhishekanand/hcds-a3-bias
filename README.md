@@ -9,9 +9,10 @@ Recently there have been rise in non-traditional education such as Bootcamps, cr
 ##### Data Set :
 My Data Set has been obtained from the Wall Street Journal based on data from Payscale, Inc hosted on Kaggle (https://www.kaggle.com/wsj/college-salaries ) 
  I have access to following data. 
+ 
+ 
 o	Salaries for Colleges by Type 
- 
- 
+
 | School Name   |School Type  |Starting Median Salary  | Mid-Career Median Salary   | Mid-Career 10th Percentile Salary  | Mid-Career 25th Percentile Salary |Mid-Career 75th Percentile Salary  | Mid-Career 90th Percentile Salary |  
 | ------------- | ------------- |------------- | ------------- |------------- | ------------- |------------- | ------------- |
 |Massachusetts Institute of Technology (MIT)| 	Engineering |	$72,200.00 |	$126,000.00 |	$76,800.00 |	$99,200.00 |	$168,000.00 	$220,000.00 |
@@ -19,7 +20,9 @@ o	Salaries for Colleges by Type
 Harvey Mudd College 	|Engineering |	$71,800.00 	|$122,000.00 |	N/A |	$96,000.00 	|$180,000.00| 	N/A |
 Polytechnic University of New York, Brooklyn 	|Engineering |	$62,400.00 |	$114,000.00|	$66,800.00 |	$94,300.00 |	$143,000.00 |	$190,000.00 |
 Cooper Union |	Engineering |	$62,200.00 |	$114,000.00| 	N/A 	|$80,200.00 |	$142,000.00 |	N/A 
- 
+
+
+
 o	Salaries for Colleges by Region 
 Sample Data  
 
@@ -32,7 +35,9 @@ Sample Data
 |University of California, Berkeley |	California |	$59,900.00 	|$112,000.00 	|$59,500.00 	|$81,000.00 |	$149,000.00 |	$201,000.00 |
 |Occidental College 	|California |	$51,900.00 |	$105,000.00| 	N/A| 	$54,800.00 	|$157,000.00 |	N/A \
  
- 
+
+
+
 o	Degrees that Pay you Back 
 Sample Data  
 
@@ -53,18 +58,18 @@ My focus for final project is to perform exploratory data analysis to answer fol
 2.	Explore growth in earning for a certain major as passage of time 
 3.	Compare Salary for College by Type and College by Region. 
 4.	Provide a graphical interface to get information based on college. 
-Tools and Platform 
-As per process and tools I will be using Python 3.x and Jupyter notebook provided under anaconda distribution. 
-To showcase, all the my work I will be using Github . 
+
+##### Tools and Platform 
+ As perr process and tools. I will be using Python 3.x and Jupyter notebook provided under anaconda distribution. 
+ To showcase, all the of my work I will be using Github
   
 ##### Shortcoming in my Dataset: 
 
 •	I don't have access to any data set for nontraditional education system to perform analysis on their success criteria. So it would be really difficult to perform any comparative analysis.
 
-•	Based on the timeline of related article on this dataset, it seems this dataset is of year 2018 , which is almost a decade in past. 
+•	Based on the timeline of related article on this dataset, it seems this dataset is of year 2008 , which is almost a decade in past. 
 
-•	This dataset only covers universities in United State, which provides a viewpoint or success matrix in US but there are a lot more well recognized university outside United State . 
- 
+•	This dataset only covers universities in United States, which provides a viewpoint or success matrix in US  but there are a lot more well of recognized university outside United States.
  
 Other Reference :
 1.	https://www.kaggle.com/mylesoneill/world-university-rankings/data 
