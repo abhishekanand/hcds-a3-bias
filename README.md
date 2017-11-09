@@ -46,7 +46,7 @@ Sample Data
 |Architecture |	$41,600.00 |	$76,800.00 |	84.6 |	$50,600.00 |	$62,200.00 |	$97,000.00 	|$136,000.00 |
  
  
- Scope : 
+##### Scope : 
 My focus for final project is to perform exploratory data analysis to answer following question : 
  
 1.	To explore which major has better career prospect after graduation. 
@@ -57,13 +57,14 @@ Tools and Platform
 As per process and tools I will be using Python 3.x and Jupyter notebook provided under anaconda distribution. 
 To showcase, all the my work I will be using Github . 
   
-Shortcoming in my Dataset: 
+##### Shortcoming in my Dataset: 
+
 •	I don't have access to any data set for nontraditional education system to perform analysis on their success criteria. So it would be really difficult to perform any comparative analysis.
+
 •	Based on the timeline of related article on this dataset, it seems this dataset is of year 2018 , which is almost a decade in past. 
+
 •	This dataset only covers universities in United State, which provides a viewpoint or success matrix in US but there are a lot more well recognized university outside United State . 
  
- 
-why your project is interesting or important (and to whom, besides yourself).
  
 Other Reference :
 1.	https://www.kaggle.com/mylesoneill/world-university-rankings/data 
