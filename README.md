@@ -12,7 +12,7 @@ My Data Set has been obtained from the Wall Street Journal based on data from Pa
 o	Salaries for Colleges by Type 
  
  
- | School Name   |School Type  |Starting Median Salary  | Mid-Career Median Salary   | Mid-Career 10th Percentile Salary  | Mid-Career 25th Percentile Salary |Mid-Career 75th Percentile Salary  | Mid-Career 90th Percentile Salary |  
+| School Name   |School Type  |Starting Median Salary  | Mid-Career Median Salary   | Mid-Career 10th Percentile Salary  | Mid-Career 25th Percentile Salary |Mid-Career 75th Percentile Salary  | Mid-Career 90th Percentile Salary |  
 | ------------- | ------------- |------------- | ------------- |------------- | ------------- |------------- | ------------- |
 |Massachusetts Institute of Technology (MIT)| 	Engineering |	$72,200.00 |	$126,000.00 |	$76,800.00 |	$99,200.00 |	$168,000.00 	$220,000.00 |
 |California Institute of Technology (CIT) |	Engineering| 	$75,500.00 |	$123,000.00 |	N/A |	$104,000.00 |	$161,000.00 |	N/A |
@@ -22,22 +22,28 @@ Cooper Union |	Engineering |	$62,200.00 |	$114,000.00| 	N/A 	|$80,200.00 |	$142,
  
 o	Salaries for Colleges by Region 
 Sample Data  
-School Name	Region	Starting Median Salary	Mid-Career Median Salary	Mid-Career 10th Percentile Salary	Mid-Career 25th Percentile Salary	Mid-Career 75th Percentile Salary	Mid-Career 90th Percentile Salary
-Stanford University 	California 	$70,400.00 	$129,000.00 	$68,400.00 	$93,100.00 	$184,000.00 	$257,000.00 
-California Institute of Technology (CIT) 	California 	$75,500.00 	$123,000.00 	N/A 	$104,000.00 	$161,000.00 	N/A 
-Harvey Mudd College 	California 	$71,800.00 	$122,000.00 	N/A 	$96,000.00 	$180,000.00 	N/A 
-University of California, Berkeley 	California 	$59,900.00 	$112,000.00 	$59,500.00 	$81,000.00 	$149,000.00 	$201,000.00 
-Occidental College 	California 	$51,900.00 	$105,000.00 	N/A 	$54,800.00 	$157,000.00 	N/A 
+|School Name|	Region|Starting| Median Salary	|Mid-Career Median Salary|	Mid-Career 10th Percentile Salary|	Mid-Career 25th Percentile Salary|	Mid-Career 75th Percentile Salary|	Mid-Career 90th Percentile Salary|
+
+| ------------- | ------------- |------------- | ------------- |------------- | ------------- |------------- | ------------- |
+
+|Stanford University 	California |	$70,400.00 |	$129,000.00 |	$68,400.00 |	$93,100.00 	|$184,000.00 	|$257,000.00 |
+|California Institute of Technology (CIT) |	California |	$75,500.00 |	$123,000.00 |	N/A| 	$104,000.00 |	$161,000.00 |	N/A |
+|Harvey Mudd College 	|California| 	$71,800.00 |	$122,000.00| 	N/A |	$96,000.00 |	$180,000.00 |	N/A |
+|University of California, Berkeley |	California |	$59,900.00 	|$112,000.00 	|$59,500.00 	|$81,000.00 |	$149,000.00 |	$201,000.00 |
+|Occidental College 	|California |	$51,900.00 |	$105,000.00| 	N/A| 	$54,800.00 	|$157,000.00 |	N/A \
  
  
 o	Degrees that Pay you Back 
 Sample Data  
-Undergraduate Major	Starting Median Salary	Mid-Career Median Salary	Percent change from Starting to Mid-Career Salary	Mid-Career 10th Percentile Salary	Mid-Career 25th Percentile Salary	Mid-Career 75th Percentile Salary	Mid-Career 90th Percentile Salary
-Accounting 	$46,000.00 	$77,100.00 	67.6 	$42,200.00 	$56,100.00 	$108,000.00 	$152,000.00 
-Aerospace Engineering 	$57,700.00 	$101,000.00 	75.0 	$64,300.00 	$82,100.00 	$127,000.00 	$161,000.00 
-Agriculture 	$42,600.00 	$71,900.00 	68.8 	$36,300.00 	$52,100.00 	$96,300.00 	$150,000.00 
-Anthropology 	$36,800.00 	$61,500.00 	67.1 	$33,800.00 	$45,500.00 	$89,300.00 	$138,000.00 
-Architecture 	$41,600.00 	$76,800.00 	84.6 	$50,600.00 	$62,200.00 	$97,000.00 	$136,000.00 
+
+
+|Undergraduate|	Major|Starting| Median Salary	|Mid-Career Median Salary|	Mid-Career 10th Percentile Salary|	Mid-Career 25th Percentile Salary|	Mid-Career 75th Percentile Salary|	Mid-Career 90th Percentile Salary|
+| ------------- | ------------- |------------- | ------------- |------------- | ------------- |------------- | ------------- |
+|Accounting |	$46,000.00| 	$77,100.00 |	67.6 |	$42,200.00 |	$56,100.00 	|$108,000.00 |	$152,000.00 |
+|Aerospace Engineering |	$57,700.00 	|$101,000.00 |75.0| 	$64,300.00 |	$82,100.00 	|$127,000.00 	$161,000.00 |
+|Agriculture 	|$42,600.00 |	$71,900.00 |	68.8 |	$36,300.00| 	$52,100.00 |	$96,300.00 	|$150,000.00 |
+|Anthropology 	|$36,800.00 	|$61,500.00| 	67.1| 	$33,800.00 	|$45,500.00 	|$89,300.00 |	$138,000.00 |
+|Architecture |	$41,600.00 |	$76,800.00 |	84.6 |	$50,600.00 |	$62,200.00 |	$97,000.00 	|$136,000.00 |
  
  
  Scope : 
