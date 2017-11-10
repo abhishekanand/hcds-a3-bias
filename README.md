@@ -70,7 +70,7 @@ My focus for final project is to perform exploratory data analysis to answer fol
 
 •	This dataset only covers universities in United States, which provides a viewpoint or success matrix in US  but there are a lot more well of recognized university outside United States.
  
-Other Reference :
+##### Other Reference :
 1.	https://www.kaggle.com/mylesoneill/world-university-rankings/data 
 2.	https://www.kaggle.com/wsj/college-salaries
 
